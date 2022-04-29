@@ -17,5 +17,5 @@
 
 # My Skills and Stats
 
-<img padding-left=50px; width="480" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rootbruh&layout=compact"></img>
+<img padding-left=50px; width="479" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rootbruh&layout=compact"></img>
 <img padding-left=50px; src="https://github-readme-stats.vercel.app/api?username=Rootbruh&show_icons=true&theme=midnight-purple"></img>
