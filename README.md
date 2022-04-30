@@ -1,4 +1,17 @@
 <h1 align="center">Hi 👋, I'm Arda</h1>
+
+```assembly
+ ________________ 
+< I use arch btw >
+ ---------------- 
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+
+```
+
 <h3 align="center">High school student with a passion for computers from turkey</h3>
 
 - 🌱 I’m currently learning **application penetration testing**
