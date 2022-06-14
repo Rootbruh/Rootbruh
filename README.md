@@ -2,7 +2,7 @@
 <h3 align="center">High school student with a passion for computers from turkey</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rootbruh&label=Profile%20views&color=0e75b6&style=flat" alt="rootbruh" /> </p>
 
-```assembly
+```md
  ________________ 
 < I use arch btw >
  ---------------- 
@@ -34,9 +34,9 @@
 
 
 # My Skills and Stats
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rootbruh" alt="rootbruh" /></a> </p>
 
-<p><img  width="410" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rootbruh&layout=compact"></img><img padding-left=50px; src="https://github-readme-stats.vercel.app/api?username=Rootbruh&show_icons=true&theme=midnight-purple"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rootbruh&" alt="rootbruh" /></p></img>
+
+<p><img  width="410" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rootbruh&layout=compact&theme=gotham"></img><img padding-left=50px; src="https://github-readme-stats.vercel.app/api?username=Rootbruh&show_icons=true&theme=gotham">
 </p>
 
 
